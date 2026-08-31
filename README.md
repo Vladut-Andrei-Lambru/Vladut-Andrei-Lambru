@@ -1,20 +1,29 @@
-# Hi, I'm Vlad
+# Vladut-Andrei Lambru
 
-I'm a 21-year-old Creative Media & Game Technologies student at Hanze University, currently on exchange at SeoulTech in South Korea.
+I’m a Creative Media & Game Technologies student at Hanze University, currently spending a semester at SeoulTech in South Korea.
 
-I mainly work with Unity and C#. The part I enjoy most is building gameplay systems: movement, interaction, camera behaviour, physics and VR feedback. I'm currently looking for a full-time internship starting in February 2027.
+Most of my work is made in Unity and C#. I enjoy the technical side of games: movement, interaction, cameras, physics and VR feedback. I’m looking for a full-time internship starting in February 2027, ideally in gameplay programming or technical design.
 
-## Selected work
+## Selected projects
 
-- **Virtual Life Support** — a hand-tracked VR CPR training prototype with live rhythm and depth feedback.
-- **Maker's Fair** — a VR construction game built around runtime physics, tools and connected structures.
-- **Tiny Spider Tiny Home** — a traversal game with movement across floors, walls and slopes.
+### Virtual Life Support
 
-## Tools
+A hand-tracked VR CPR training prototype made for an external client. I worked on the CPR interaction, live rhythm and depth feedback, and the scenario progression system.
+
+### Maker’s Fair
+
+A VR construction game where players assemble and stress-test a cart. My work focused on runtime construction groups, hammering, welding, wheels and physics behaviour.
+
+### Tiny Spider Tiny Home
+
+A traversal game about a small spider moving across floors, walls and furniture. I programmed the movement, web-swinging, camera and interaction systems.
+
+## What I use
 
 Unity · C# · Git · VR/XR · Meta Quest · Unreal Engine · Blueprints
 
-## Find me
+## Links
 
 - [Portfolio](https://vladut-andrei-lambru.github.io/Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/vladut-andrei-lambru/)
+- [v.lambru@st.hanze.nl](mailto:v.lambru@st.hanze.nl)
